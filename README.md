@@ -28,11 +28,10 @@ I'm particularly interested in the intersection of **AI, data, and real-world ap
 
 | Project                    | What it does                                                                                                                                   | Technologies                                            |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [**Kif Kif AI**](#)        | AI-powered accessibility platform for inclusive education, supporting PDF-to-audio, video-to-text, summarization and sign-language interaction | Python · FastAPI · TensorFlow · Keras · OpenCV · React  |
-| [**Tawhida**](#)           | Multimodal healthcare AI system combining biomedical retrieval, vector search and RAG for breast cancer risk assessment                        | Python · Qdrant · RAG · BioBERT · CLIP · FastAPI        |
-| [**VoiceTrace**](#)        | Voice-first marketplace using speech processing and LLM-based structured extraction with traceable product lots                                | FastAPI · PostgreSQL · PostGIS · pgvector · LLM · React |
-| [**STIP AI Assistant**](#) | Natural-language assistant converting French questions into validated SQL queries over absenteeism data                                        | Python · LLM · SQL · SQLite · Streamlit                 |
-| **MediAssist**             | Android healthcare application with local data management and intelligent application features                                                 | Java · Android · SQLite                                 |
+| [**Kif Kif AI**](https://github.com/TahaTTF/Kif_Kif)        | AI-powered accessibility platform for inclusive education, supporting PDF-to-audio, video-to-text, summarization and sign-language interaction | Python · FastAPI · TensorFlow · Keras · OpenCV · React  |
+| [**Tawhida**](https://github.com/ben-slimene-nour-el-houda/Breast-Cancer)           | Multimodal healthcare AI system combining biomedical retrieval, vector search and RAG for breast cancer risk assessment                        | Python · Qdrant · RAG · BioBERT · CLIP · FastAPI        |
+| [**VoiceTrace**](https://github.com/nourlachaal/voicetrace)        | Voice-first marketplace using speech processing and LLM-based structured extraction with traceable product lots                                | FastAPI · PostgreSQL · PostGIS · pgvector · LLM · React |
+| [**STIP AI Assistant**](https://github.com/nourlachaal/Stip_Projet_Stage) | Natural-language assistant converting French questions into validated SQL queries over absenteeism data                                        | Python · LLM · SQL · SQLite · Streamlit       
 
 ---
 
